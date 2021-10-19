@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "Opening Party!",
+      "body": "Why do we use it!!!?",
+      "author": "mario",
+      "id": 2
+    },
+    {
+      "title": "blog title",
+      "body": "blog body",
+      "author": "mario",
+      "id": 3
+    },
+    {
+      "title": "gsdg",
+      "body": "dfsdv",
+      "author": "mario",
+      "id": 4
+    },
+    {
+      "title": "gsdg",
+      "body": "dfsdv",
+      "author": "mario",
+      "id": 5
+    }
+  ]
+}
